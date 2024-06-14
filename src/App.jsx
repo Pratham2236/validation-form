@@ -146,7 +146,7 @@ const App = () => {
     <div className="App">
       <div id="toast"></div>
       <div>
-        <h1>validation form</h1>
+        <h1>register form</h1>
         <label>
           <input
             placeholder="Name:"

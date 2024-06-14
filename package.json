@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "http://Pratham2236.github.io/validation-form",
+  "homepage": "http://Pratham2236.github.io/validation-form", 
   "scripts": {
     "dev": "vite",
     "build": "vite build",
